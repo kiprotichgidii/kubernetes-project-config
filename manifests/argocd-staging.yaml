@@ -6,9 +6,9 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/kiprotichgidii/kubernetes-submissions
+    repoURL: https://github.com/kiprotichgidii/kubernetes-project-config
     targetRevision: main
-    path: the_project/overlays/staging
+    path: overlays/staging
   destination:
     server: https://kubernetes.default.svc
     namespace: project-staging
