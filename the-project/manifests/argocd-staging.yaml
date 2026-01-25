@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/kiprotichgidii/kubernetes-project-config
     targetRevision: main
-    path: overlays/staging
+    path: the-project/overlays/staging
   destination:
     server: https://kubernetes.default.svc
     namespace: project-staging
