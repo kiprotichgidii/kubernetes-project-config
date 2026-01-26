@@ -10,14 +10,14 @@ resources:
 images:
 - name: broadcaster-image
   newName: gedionkip/k8s-submissions
-  newTag: broadcaster-5a84fd4cd67774e09ce34faa68d2b1879c6dd8d6
+  newTag: broadcaster-36530d2f15c9082dce599e22373286b1c8dbdf0d
 - name: curlimages/curl
   newTag: latest
 - name: postgres
   newTag: "17"
 - name: todo-app
   newName: gedionkip/k8s-submissions
-  newTag: todo-app-5a84fd4cd67774e09ce34faa68d2b1879c6dd8d6
+  newTag: todo-app-36530d2f15c9082dce599e22373286b1c8dbdf0d
 - name: todo-backend
   newName: gedionkip/k8s-submissions
-  newTag: todo-backend-5a84fd4cd67774e09ce34faa68d2b1879c6dd8d6
+  newTag: todo-backend-36530d2f15c9082dce599e22373286b1c8dbdf0d
